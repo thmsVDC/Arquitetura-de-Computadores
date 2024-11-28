@@ -82,7 +82,6 @@
     <wire from="(160,440)" to="(170,440)"/>
     <wire from="(200,440)" to="(210,440)"/>
     <wire from="(110,430)" to="(120,430)"/>
-    <wire from="(120,360)" to="(130,360)"/>
     <wire from="(1140,370)" to="(1160,370)"/>
     <wire from="(430,430)" to="(490,430)"/>
     <wire from="(710,360)" to="(760,360)"/>
@@ -353,15 +352,6 @@
     <comp lib="6" loc="(1164,454)" name="Text">
       <a name="text" val="0110 - SUB"/>
       <a name="font" val="SansSerif bold 10"/>
-    </comp>
-    <comp lib="0" loc="(120,360)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="SUBU"/>
-    </comp>
-    <comp lib="0" loc="(130,360)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-      <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(270,650)" name="Tunnel">
       <a name="width" val="4"/>

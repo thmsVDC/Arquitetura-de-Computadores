@@ -1,3 +1,3 @@
-ADDIU $t0, $t1, 0x74
-ORI $t2, $t0, 0x167
-ADDIU $t3, $t2, 0x273
+ADDIU $1, $0, 0x74
+ORI $2, $1, 0x167
+ADDIU $3, $2, 0x273
